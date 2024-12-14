@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jCfaTo0Fq0M=",
+  "dgSpecHash": "3jg4hZnSDcQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\psheart\\source\\repos\\ExampleKafka\\ApiGateway\\ApiGateway.csproj",
+  "projectFilePath": "C:\\Users\\psheart\\OneDrive\\Документы\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ApiGateway\\ApiGateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\psheart\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\psheart\\.nuget\\packages\\ipaddressrange\\6.1.0\\ipaddressrange.6.1.0.nupkg.sha512",

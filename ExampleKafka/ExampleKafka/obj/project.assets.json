@@ -674,11 +674,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\psheart\\source\\repos\\ExampleKafka\\ExampleKafka\\ExampleOrderKafka.csproj",
+      "projectUniqueName": "C:\\Users\\psheart\\OneDrive\\Документы\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\ExampleOrderKafka.csproj",
       "projectName": "ExampleOrderKafka",
-      "projectPath": "C:\\Users\\psheart\\source\\repos\\ExampleKafka\\ExampleKafka\\ExampleOrderKafka.csproj",
+      "projectPath": "C:\\Users\\psheart\\OneDrive\\Документы\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\ExampleOrderKafka.csproj",
       "packagesPath": "C:\\Users\\psheart\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\psheart\\source\\repos\\ExampleKafka\\ExampleKafka\\obj\\",
+      "outputPath": "C:\\Users\\psheart\\OneDrive\\Документы\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

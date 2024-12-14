@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tBlvnXzRzjw=",
+  "dgSpecHash": "vteM+Rvmt64=",
   "success": true,
-  "projectFilePath": "C:\\Users\\psheart\\source\\repos\\ExampleKafka\\ExampleKafka\\ExampleOrderKafka.csproj",
+  "projectFilePath": "C:\\Users\\psheart\\OneDrive\\Документы\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\ExampleOrderKafka.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\psheart\\.nuget\\packages\\confluent.kafka\\2.6.1\\confluent.kafka.2.6.1.nupkg.sha512",
     "C:\\Users\\psheart\\.nuget\\packages\\librdkafka.redist\\2.6.1\\librdkafka.redist.2.6.1.nupkg.sha512",
