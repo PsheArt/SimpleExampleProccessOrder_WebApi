@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QfDh/+C9Kz6z4XKCj1l3dKDAiS/eU995ZwxwvVW7vng=",
+  "Source": "ExampleOrderKafka",
+  "BasePath": "_content/ExampleOrderKafka",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

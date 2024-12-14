@@ -1,0 +1,6 @@
+@ExampleNotificationKafka_HostAddress = http://localhost:5162
+
+GET {{ExampleNotificationKafka_HostAddress}}/notifications/
+Accept: application/json
+
+###
