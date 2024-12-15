@@ -1,0 +1,1 @@
+C:\Users\psheart\OneDrive\Документы\GitHub\SimpleExampleProccessOrder\ExampleKafka\WebClient\webclient.client\obj\Debug\webclient.client.esproj.CoreCompileInputs.cache

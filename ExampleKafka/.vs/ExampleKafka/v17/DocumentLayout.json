@@ -3,48 +3,124 @@
   "WorkspaceRootPath": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6565E5A3-7B05-4E49-AC54-25F393E5F252}|Shop_WebClient\\Shop_WebClient.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\shop_webclient\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6565E5A3-7B05-4E49-AC54-25F393E5F252}|Shop_WebClient\\Shop_WebClient.csproj|solutionrelative:shop_webclient\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.client\\src\\orderapp\\component\\getorder.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|solutionrelative:webclient\\webclient.client\\src\\orderapp\\component\\getorder.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6565E5A3-7B05-4E49-AC54-25F393E5F252}|Shop_WebClient\\Shop_WebClient.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\shop_webclient\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6565E5A3-7B05-4E49-AC54-25F393E5F252}|Shop_WebClient\\Shop_WebClient.csproj|solutionrelative:shop_webclient\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.client\\src\\orderapp\\component\\createorder.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|solutionrelative:webclient\\webclient.client\\src\\orderapp\\component\\createorder.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\examplekafka\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|solutionrelative:examplekafka\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6565E5A3-7B05-4E49-AC54-25F393E5F252}|Shop_WebClient\\Shop_WebClient.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\shop_webclient\\models\\notificationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6565E5A3-7B05-4E49-AC54-25F393E5F252}|Shop_WebClient\\Shop_WebClient.csproj|solutionrelative:shop_webclient\\models\\notificationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\examplekafka\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|solutionrelative:examplekafka\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|solutionrelative:webclient\\webclient.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F56221A8-9B54-4996-96F1-185DE127A04A}|ApiGateway\\ApiGateway.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\apigateway\\configuration\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F56221A8-9B54-4996-96F1-185DE127A04A}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\configuration\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|solutionrelative:webclient\\webclient.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F56221A8-9B54-4996-96F1-185DE127A04A}|ApiGateway\\ApiGateway.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F56221A8-9B54-4996-96F1-185DE127A04A}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\examplekafka\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|solutionrelative:examplekafka\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\examplekafka\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|solutionrelative:examplekafka\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\examplekafka\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|solutionrelative:examplekafka\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\examplekafka\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|solutionrelative:examplekafka\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\examplekafka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|solutionrelative:examplekafka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\examplekafka\\exampleorderkafka.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|solutionrelative:examplekafka\\exampleorderkafka.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{E130ECC0-FD19-41D2-935B-FB5582E12190}|ExampleNotificationKafka\\ExampleNotificationKafka.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\examplenotificationkafka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E130ECC0-FD19-41D2-935B-FB5582E12190}|ExampleNotificationKafka\\ExampleNotificationKafka.csproj|solutionrelative:examplenotificationkafka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\examplekafka\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|solutionrelative:examplekafka\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|solutionrelative:webclient\\webclient.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|solutionrelative:webclient\\webclient.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|solutionrelative:webclient\\webclient.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|solutionrelative:webclient\\webclient.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|solutionrelative:webclient\\webclient.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|solutionrelative:webclient\\webclient.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9EAC2E-CAFE-4C80-8A98-FCC40CCE0BB4}|WebClient\\WebClient.Server\\WebClient.Server.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9EAC2E-CAFE-4C80-8A98-FCC40CCE0BB4}|WebClient\\WebClient.Server\\WebClient.Server.csproj|solutionrelative:webclient\\webclient.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9EAC2E-CAFE-4C80-8A98-FCC40CCE0BB4}|WebClient\\WebClient.Server\\WebClient.Server.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD9EAC2E-CAFE-4C80-8A98-FCC40CCE0BB4}|WebClient\\WebClient.Server\\WebClient.Server.csproj|solutionrelative:webclient\\webclient.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9EAC2E-CAFE-4C80-8A98-FCC40CCE0BB4}|WebClient\\WebClient.Server\\WebClient.Server.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.server\\webclient.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CD9EAC2E-CAFE-4C80-8A98-FCC40CCE0BB4}|WebClient\\WebClient.Server\\WebClient.Server.csproj|solutionrelative:webclient\\webclient.server\\webclient.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|solutionrelative:webclient\\webclient.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|solutionrelative:webclient\\webclient.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.client\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|solutionrelative:webclient\\webclient.client\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.client\\webclient.client.esproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|solutionrelative:webclient\\webclient.client\\webclient.client.esproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|solutionrelative:webclient\\webclient.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9EAC2E-CAFE-4C80-8A98-FCC40CCE0BB4}|WebClient\\WebClient.Server\\WebClient.Server.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9EAC2E-CAFE-4C80-8A98-FCC40CCE0BB4}|WebClient\\WebClient.Server\\WebClient.Server.csproj|solutionrelative:webclient\\webclient.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9EAC2E-CAFE-4C80-8A98-FCC40CCE0BB4}|WebClient\\WebClient.Server\\WebClient.Server.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9EAC2E-CAFE-4C80-8A98-FCC40CCE0BB4}|WebClient\\WebClient.Server\\WebClient.Server.csproj|solutionrelative:webclient\\webclient.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\webclient\\webclient.client\\src\\vite-env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{53BDBC23-4B37-482D-9889-5C0A07A699BB}|WebClient\\webclient.client\\webclient.client.esproj|solutionrelative:webclient\\webclient.client\\src\\vite-env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\examplekafka\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|solutionrelative:examplekafka\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\examplekafka\\exampleorderkafka.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|solutionrelative:examplekafka\\exampleorderkafka.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BFFDF6D-A2CD-426B-B853-A0B4B891F4F7}|ExampleKafka\\ExampleOrderKafka.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\examplekafka\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,10 +153,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F56221A8-9B54-4996-96F1-185DE127A04A}|ApiGateway\\ApiGateway.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F56221A8-9B54-4996-96F1-185DE127A04A}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E130ECC0-FD19-41D2-935B-FB5582E12190}|ExampleNotificationKafka\\ExampleNotificationKafka.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\examplenotificationkafka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E130ECC0-FD19-41D2-935B-FB5582E12190}|ExampleNotificationKafka\\ExampleNotificationKafka.csproj|solutionrelative:examplenotificationkafka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E130ECC0-FD19-41D2-935B-FB5582E12190}|ExampleNotificationKafka\\ExampleNotificationKafka.csproj|c:\\users\\psheart\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\simpleexampleproccessorder\\examplekafka\\examplenotificationkafka\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -117,6 +189,18 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\psheart\\source\\repos\\ExampleKafka\\ExampleKafka\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\OrderApp.tsx\\Component\\GetOrder.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebClient\\webclient.client\\src\\OrderApp.tsx\\Component\\GetOrder.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\OrderApp.tsx\\Component\\CreateOrder.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebClient\\webclient.client\\src\\OrderApp.tsx\\Component\\CreateOrder.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\OrderApp.tsx\\Model\\Order.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebClient\\webclient.client\\src\\OrderApp.tsx\\Model\\Order.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -131,58 +215,400 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\Shop_WebClient\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "Shop_WebClient\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\Shop_WebClient\\Services\\OrderService.cs",
-              "RelativeToolTip": "Shop_WebClient\\Services\\OrderService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T18:40:26.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NotificationMessage.cs",
-              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\Shop_WebClient\\Models\\NotificationMessage.cs",
-              "RelativeDocumentMoniker": "Shop_WebClient\\Models\\NotificationMessage.cs",
-              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\Shop_WebClient\\Models\\NotificationMessage.cs",
-              "RelativeToolTip": "Shop_WebClient\\Models\\NotificationMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T18:38:39.528Z",
+              "Title": "GetOrder.tsx",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\OrderApp\\Component\\GetOrder.tsx",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\src\\OrderApp\\Component\\GetOrder.tsx",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\OrderApp\\Component\\GetOrder.tsx",
+              "RelativeToolTip": "WebClient\\webclient.client\\src\\OrderApp\\Component\\GetOrder.tsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-15T11:16:02.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\Shop_WebClient\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Shop_WebClient\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\Shop_WebClient\\Models\\Order.cs",
-              "RelativeToolTip": "Shop_WebClient\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T18:36:57.523Z",
+              "Title": "CreateOrder.tsx",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\OrderApp\\Component\\CreateOrder.tsx",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\src\\OrderApp\\Component\\CreateOrder.tsx",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\OrderApp\\Component\\CreateOrder.tsx",
+              "RelativeToolTip": "WebClient\\webclient.client\\src\\OrderApp\\Component\\CreateOrder.tsx",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-15T11:14:59.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:17:38.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\nuget.config",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\nuget.config",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\nuget.config",
+              "RelativeToolTip": "WebClient\\webclient.client\\nuget.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-15T04:21:24.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\eslint.config.js",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\eslint.config.js",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\eslint.config.js",
+              "RelativeToolTip": "WebClient\\webclient.client\\eslint.config.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-15T04:21:17.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\vite.config.ts",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\vite.config.ts",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\vite.config.ts",
+              "RelativeToolTip": "WebClient\\webclient.client\\vite.config.ts",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-15T04:21:28.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\main.tsx",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\src\\main.tsx",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\main.tsx",
+              "RelativeToolTip": "WebClient\\webclient.client\\src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-15T04:19:12.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleNotificationKafka\\Program.cs",
+              "RelativeDocumentMoniker": "ExampleNotificationKafka\\Program.cs",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleNotificationKafka\\Program.cs",
+              "RelativeToolTip": "ExampleNotificationKafka\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:06:54.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Program.cs",
+              "RelativeDocumentMoniker": "ExampleKafka\\Program.cs",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Program.cs",
+              "RelativeToolTip": "ExampleKafka\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:36:21.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "ExampleKafka\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Services\\OrderService.cs",
+              "RelativeToolTip": "ExampleKafka\\Services\\OrderService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:22:24.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ocelot.json",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ApiGateway\\Configuration\\ocelot.json",
               "RelativeDocumentMoniker": "ApiGateway\\Configuration\\ocelot.json",
               "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ApiGateway\\Configuration\\ocelot.json",
               "RelativeToolTip": "ApiGateway\\Configuration\\ocelot.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-14T05:05:02.235Z",
+              "WhenOpened": "2024-12-15T06:55:31.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\tsconfig.json",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\tsconfig.json",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\tsconfig.json",
+              "RelativeToolTip": "WebClient\\webclient.client\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T05:27:48.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\App.tsx",
+              "RelativeToolTip": "WebClient\\webclient.client\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-15T10:45:36.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\index.html",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\index.html",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\index.html",
+              "RelativeToolTip": "WebClient\\webclient.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-15T04:19:31.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\.vscode\\launch.json",
+              "RelativeToolTip": "WebClient\\webclient.client\\.vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T05:25:20.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\App.css",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\App.css",
+              "RelativeToolTip": "WebClient\\webclient.client\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-15T04:22:14.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\WebClient.Server\\Program.cs",
+              "RelativeDocumentMoniker": "WebClient\\WebClient.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\WebClient.Server\\Program.cs",
+              "RelativeToolTip": "WebClient\\WebClient.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:18:57.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ExampleKafka\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Models\\Order.cs",
+              "RelativeToolTip": "ExampleKafka\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:06:50.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ExampleKafka\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ExampleKafka\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:32:21.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\index.css",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\index.css",
+              "RelativeToolTip": "WebClient\\webclient.client\\src\\index.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-15T04:19:08.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WebClient.Server.http",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\WebClient.Server\\WebClient.Server.http",
+              "RelativeDocumentMoniker": "WebClient\\WebClient.Server\\WebClient.Server.http",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\WebClient.Server\\WebClient.Server.http",
+              "RelativeToolTip": "WebClient\\WebClient.Server\\WebClient.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-15T10:52:22.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\WebClient.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "WebClient\\WebClient.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\WebClient.Server\\appsettings.json",
+              "RelativeToolTip": "WebClient\\WebClient.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T10:52:28.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\README.md",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\README.md",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\README.md",
+              "RelativeToolTip": "WebClient\\webclient.client\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-15T04:21:56.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\WebClient.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebClient\\WebClient.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\WebClient.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebClient\\WebClient.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:20:41.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "react.svg",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\assets\\react.svg",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\src\\assets\\react.svg",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\assets\\react.svg",
+              "RelativeToolTip": "WebClient\\webclient.client\\src\\assets\\react.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABdAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-15T06:15:17.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CreateOrder.tsx",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\OrderApp.tsx\\Component\\CreateOrder.tsx",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\src\\OrderApp.tsx\\Component\\CreateOrder.tsx",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\OrderApp.tsx\\Component\\CreateOrder.tsx",
+              "RelativeToolTip": "WebClient\\webclient.client\\src\\OrderApp.tsx\\Component\\CreateOrder.tsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-15T06:17:41.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GetOrder.tsx",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\OrderApp.tsx\\Component\\GetOrder.tsx",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\src\\OrderApp.tsx\\Component\\GetOrder.tsx",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\OrderApp.tsx\\Component\\GetOrder.tsx",
+              "RelativeToolTip": "WebClient\\webclient.client\\src\\OrderApp.tsx\\Component\\GetOrder.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-15T06:57:50.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Order.ts",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\OrderApp.tsx\\Model\\Order.ts",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\src\\OrderApp.tsx\\Model\\Order.ts",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\OrderApp.tsx\\Model\\Order.ts",
+              "RelativeToolTip": "WebClient\\webclient.client\\src\\OrderApp.tsx\\Model\\Order.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-15T06:56:26.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "webclient.client",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\webclient.client.esproj",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\webclient.client.esproj",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\webclient.client.esproj",
+              "RelativeToolTip": "WebClient\\webclient.client\\webclient.client.esproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-15T05:28:10.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "vite-env.d.ts",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\vite-env.d.ts",
+              "RelativeDocumentMoniker": "WebClient\\webclient.client\\src\\vite-env.d.ts",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\webclient.client\\src\\vite-env.d.ts",
+              "RelativeToolTip": "WebClient\\webclient.client\\src\\vite-env.d.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-15T04:21:14.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\WebClient.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebClient\\WebClient.Server\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\WebClient\\WebClient.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "WebClient\\WebClient.Server\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:22:40.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ApiGateway\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ApiGateway\\appsettings.Development.json",
@@ -190,12 +616,11 @@
               "RelativeToolTip": "ApiGateway\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-13T18:35:07.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T18:35:07.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 37,
               "Title": "ApiGateway.csproj",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ApiGateway\\ApiGateway.csproj",
               "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj",
@@ -208,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ApiGateway\\appsettings.json",
               "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
@@ -216,12 +641,11 @@
               "RelativeToolTip": "ApiGateway\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-13T18:26:03.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T18:26:03.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 36,
               "Title": "ApiGateway.http",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ApiGateway\\ApiGateway.http",
               "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.http",
@@ -229,38 +653,11 @@
               "RelativeToolTip": "ApiGateway\\ApiGateway.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-12-13T18:24:11.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T18:24:11.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ApiGateway\\Program.cs",
-              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
-              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ApiGateway\\Program.cs",
-              "RelativeToolTip": "ApiGateway\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T18:17:38.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "ExampleKafka\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Models\\Order.cs",
-              "RelativeToolTip": "ExampleKafka\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T06:45:12.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 28,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ExampleKafka\\Properties\\launchSettings.json",
@@ -268,51 +665,11 @@
               "RelativeToolTip": "ExampleKafka\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAQAAAAAAAAAAABBwBcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-14T09:18:15.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T09:18:15.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "ExampleKafka\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Services\\OrderService.cs",
-              "RelativeToolTip": "ExampleKafka\\Services\\OrderService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:22:24.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "ExampleKafka\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "ExampleKafka\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAABBwCMAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T06:32:21.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Program.cs",
-              "RelativeDocumentMoniker": "ExampleKafka\\Program.cs",
-              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Program.cs",
-              "RelativeToolTip": "ExampleKafka\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAABBwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T02:36:21.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 29,
               "Title": "ExampleOrderKafka",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\ExampleOrderKafka.csproj",
               "RelativeDocumentMoniker": "ExampleKafka\\ExampleOrderKafka.csproj",
@@ -324,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 34,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ApiGateway\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
@@ -332,12 +689,11 @@
               "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-14T05:01:38.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T05:01:38.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 35,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleNotificationKafka\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ExampleNotificationKafka\\Properties\\launchSettings.json",
@@ -345,12 +701,11 @@
               "RelativeToolTip": "ExampleNotificationKafka\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAcAAAAAAAAAAABBwBgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-14T05:03:08.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T05:03:08.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 40,
               "Title": "ExampleOrderKafka.http",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\ExampleOrderKafka.http",
               "RelativeDocumentMoniker": "ExampleKafka\\ExampleOrderKafka.http",
@@ -358,12 +713,11 @@
               "RelativeToolTip": "ExampleKafka\\ExampleOrderKafka.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-12-13T13:23:03.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T13:23:03.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 41,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\appsettings.json",
               "RelativeDocumentMoniker": "ExampleKafka\\appsettings.json",
@@ -371,12 +725,11 @@
               "RelativeToolTip": "ExampleKafka\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-13T13:23:02.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T13:23:02.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 43,
               "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
@@ -384,12 +737,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "ViewState": "AgIAADoAAAAAAAAAAAAawDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-12-13T12:39:32.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T12:39:32.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 42,
               "Title": "Microsoft.NET.Sdk.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
@@ -397,12 +749,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
               "ViewState": "AgIAAHQBAAAAAAAAAAAawCABAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-12-13T12:37:01.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T12:37:01.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 45,
               "Title": "ExampleOrderKafka.csproj",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\ExampleOrderKafka.csproj",
               "RelativeDocumentMoniker": "ExampleKafka\\ExampleOrderKafka.csproj",
@@ -415,7 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 30,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleKafka\\Services\\IOrderService.cs",
               "RelativeDocumentMoniker": "ExampleKafka\\Services\\IOrderService.cs",
@@ -423,12 +774,11 @@
               "RelativeToolTip": "ExampleKafka\\Services\\IOrderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:22:44.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T12:22:44.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 31,
               "Title": "ExampleNotificationKafka.http",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleNotificationKafka\\ExampleNotificationKafka.http",
               "RelativeDocumentMoniker": "ExampleNotificationKafka\\ExampleNotificationKafka.http",
@@ -436,12 +786,11 @@
               "RelativeToolTip": "ExampleNotificationKafka\\ExampleNotificationKafka.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-12-13T12:09:56.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T12:09:56.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 38,
               "Title": "NotificationController.cs",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleNotificationKafka\\Controllers\\NotificationController.cs",
               "RelativeDocumentMoniker": "ExampleNotificationKafka\\Controllers\\NotificationController.cs",
@@ -454,20 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleNotificationKafka\\Program.cs",
-              "RelativeDocumentMoniker": "ExampleNotificationKafka\\Program.cs",
-              "ToolTip": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleNotificationKafka\\Program.cs",
-              "RelativeToolTip": "ExampleNotificationKafka\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T09:06:54.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 39,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleNotificationKafka\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "ExampleNotificationKafka\\Models\\Notification.cs",
@@ -475,12 +811,11 @@
               "RelativeToolTip": "ExampleNotificationKafka\\Models\\Notification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T09:06:22.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T09:06:22.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 46,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\psheart\\source\\repos\\ExampleKafka\\ExampleKafka\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ExampleKafka\\ExampleKafka\\Controllers\\WeatherForecastController.cs",
@@ -491,7 +826,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 44,
               "Title": "ExampleNotificationKafka.csproj",
               "DocumentMoniker": "C:\\Users\\psheart\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\SimpleExampleProccessOrder\\ExampleKafka\\ExampleNotificationKafka\\ExampleNotificationKafka.csproj",
               "RelativeDocumentMoniker": "ExampleNotificationKafka\\ExampleNotificationKafka.csproj",
@@ -504,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 47,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\psheart\\source\\repos\\ExampleKafka\\ExampleKafka\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ExampleKafka\\ExampleKafka\\WeatherForecast.cs",
