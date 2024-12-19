@@ -6,7 +6,7 @@ import GetOrder from './OrderApp/Component/GetOrder';
 const App: React.FC = () => {
     return (
         <div style={{ padding: '20px' }}>
-            <h1>Управление заказами</h1>
+            <h1>РЈРїСЂР°РІР»РµРЅРёРµ Р·Р°РєР°Р·Р°РјРё</h1>
             <CreateOrder />
             <GetOrder />
         </div>

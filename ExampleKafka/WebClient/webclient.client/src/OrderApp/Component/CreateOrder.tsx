@@ -15,15 +15,15 @@ import { CreateOrderRequest } from '../Model/CreateOrderRequest';
            e.preventDefault();
            try {
                const response = await axios.post('http://localhost:5000/api/Orders/create', orderDetails);
-               setMessage('Заказ создан! ID: ' + response.data.id);
+               setMessage('Р—Р°РєР°Р· СЃРѕР·РґР°РЅ! ID: ' + response.data.id);
            } catch (error) {
-               setMessage('Ошибка при создании заказа. ' + error);
+               setMessage('РћС€РёР±РєР° РїСЂРё СЃРѕР·РґР°РЅРёРё Р·Р°РєР°Р·Р°. ' + error);
            }
        };
 
        return (
            <div>
-               <h2>Создать заказ</h2>
+               <h2>РЎРѕР·РґР°С‚СЊ Р·Р°РєР°Р·</h2>
                <form onSubmit={handleSubmit}>
                    <div>
                        <label>Product ID:</label>
@@ -33,7 +33,7 @@ import { CreateOrderRequest } from '../Model/CreateOrderRequest';
                        <label>Quantity:</label>
                        <input type="number" name="quantity" value={orderDetails.quantity} onChange={handleChange} required />
                    </div>
-                   <button type="submit">Создать заказ</button>
+                   <button type="submit">РЎРѕР·РґР°С‚СЊ</button>
                </form>
                {message && <p>{message}</p>}
            </div>

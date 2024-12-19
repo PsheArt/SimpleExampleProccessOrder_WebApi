@@ -18,28 +18,28 @@ const GetOrder: React.FC = () => {
             setOrder(response.data);
             setErrorMessage('');
         } catch (error) {
-            setErrorMessage('Заказ не найден.' + error);
+            setErrorMessage('РћС€РёР±РєР°!' + error);
             setOrder(order);
         }
     };
 
     return (
         <div>
-            <h2>Получить заказ</h2>
+            <h2>РџРѕР»СѓС‡РёС‚СЊ Р·Р°РєР°Р·</h2>
             <form onSubmit={handleSubmit}>
                 <div>
                     <label>Order ID:</label>
                     <input type="text" value={orderId} onChange={handleChange} required />
                 </div>
-                <button type="submit">Получить заказ</button>
+                <button type="submit">РџРѕР»СѓС‡РёС‚СЊ</button>
             </form>
             {errorMessage && <p>{errorMessage}</p>}
             {order && (
                 <div>
-                    <h3>Детали заказа:</h3>
+                    <h3>Р—Р°РєР°Р·:</h3>
                     <p>ID: {order.Id}</p>
-                    <p>Товар: {order.Product}</p>
-                    <p>Количество: {order.Quantity}</p>
+                    <p>РўРѕРІР°СЂ: {order.Product}</p>
+                    <p>РљРѕР»РёС‡РµСЃС‚РІРѕ: {order.Quantity}</p>
                 </div>
             )}
         </div>
